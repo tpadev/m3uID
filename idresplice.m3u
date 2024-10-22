@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgid.m3uid.workers.dev/ip3.epg.xml" size="big"
+#EXTM3U x-tvg-url="https://epgid.m3uid.workers.dev/ip3.epg.xml#format=xmltv" size="big"
 #EXTINF:-1 type="stream" channellId"Trans7.id" tvg-name="Trans7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="Indonesia" tvg-id="Trans7.id",ID: Trans 7
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162502
 #EXTINF:-1 type="stream" channelId="TransTV.id" tvg-name="ID: TransTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Indonesia" tvg-id="TransTV.id",ID: Trans TV
