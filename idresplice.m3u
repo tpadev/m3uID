@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epgid.m3uid.workers.dev/"
+
 #EXTINF:-1 tvg-id="" tvg-name="SG: Channel News Asia (CNA)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/41cafcadf9e3bd00c4a9a012c2218b91.jpg" group-title="Singapore",SG: Channel News Asia (CNA)
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/157524
 #EXTINF:-1 tvg-id="" tvg-name="SG: CinemaWorld" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c922da17bb8dbfb8049917747ad87f0b.png" group-title="Singapore",SG: CinemaWorld
@@ -31,7 +32,7 @@ http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/264747
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162513
 #EXTINF:-1 tvg-id="" tvg-name="ID: Berita Satu World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="Indonesia",ID: Berita Satu World
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162136
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Indonesia",ID: Bioskop Indonesia
+#EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-name="ID: Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Indonesia",ID: Bioskop Indonesia
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/264801
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bloomberg TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="Indonesia",ID: Bloomberg TV
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/157599
@@ -193,9 +194,9 @@ http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298572
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/157580
 #EXTINF:-1 tvg-id="" tvg-name="ID: TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="Indonesia",ID: TLC
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/165086
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="Indonesia",ID: Trans 7
+#EXTINF:-1 type="stream" channellId"Trans7" tvg-id="Trans7" tvg-name="Trans7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="Indonesia",ID: Trans 7
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162502
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Indonesia",ID: Trans TV
+#EXTINF:-1 type="stream" channelId="TransTV" tvg-id="TransTV" tvg-name="ID: TransTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Indonesia",ID: Trans TV
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162503
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="Indonesia",ID: TV 9 Nusantara
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162509
