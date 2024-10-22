@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgid.m3uid.workers.dev/"
+#EXTM3U x-tvg-url="https://epgid.m3uid.workers.dev/ip3.epg.xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="SG: Channel News Asia (CNA)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/41cafcadf9e3bd00c4a9a012c2218b91.jpg" group-title="Singapore",SG: Channel News Asia (CNA)
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/157524
