@@ -1,0 +1,13 @@
+[
+  {
+    "id": "abc_news_au",
+    "name": "ABC News",
+    "hls_url": "",
+    "dash_url": "https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd",
+    "drm": "clearkey",
+    "clearkey_key": "fbbccb9d1f9e402293b23dcf62322d83",
+    "clearkey_key_id": "63d828f9c104b74c1188a651ba39c812",
+    "category": "News",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/640px-ABC_News_%28Australia%29_logo.svg.png"
+  }
+]
