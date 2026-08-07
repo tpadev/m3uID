@@ -138,7 +138,7 @@ https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.m
 #KODIPROP:inputstream.adaptive.license_key=0b74cf4e95c3dac51f8445d044d5fa11:abe32ddf4ab8e451b505354d55629785
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ijf9c1nj9l/out/v1/d8018bfb87ac4be1840dbc18b31f2fed/cenc.mpd
 
-#EXTINF:-1  tvg-id="MGM+.Drive-In.us2" tvg-logo="https://i.imgur.com/3fsnLQn.png" group-title="EXTRAS",MGM+ Drive In
+#EXTINF:-1  tvg-id="MGM+.Drive-In.us2" tvg-logo="https://i.imgur.com/3fsnLQn.png" group-title="MGM",MGM+ Drive In
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
 https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
