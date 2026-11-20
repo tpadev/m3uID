@@ -44,7 +44,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/yfo5p7nmtt/out/v
 
 #--------------------------------------------------HBO------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="https://lo1.in/rom/hbo.png" group-title="HBO",HBO 1
+#EXTINF:-1 tvg-id="HBO.Canada.West.HD.ca2" tvg-name="HBO 1" tvg-logo="https://lo1.in/rom/hbo.png" group-title="HBO",HBO 1 Canada
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -52,7 +52,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/yfo5p7nmtt/out/v
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
 #https://qw.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://lo1.in/rom/hbo2.png" group-title="HBO",HBO 2
+#EXTINF:-1 tvg-id="HBO.Canada.1.HD.ca2" tvg-name="HBO 2" tvg-logo="https://lo1.in/rom/hbo2.png" group-title="HBO",HBO 2 Canada
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
